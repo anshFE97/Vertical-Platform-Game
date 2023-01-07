@@ -1,3 +1,3 @@
 # Vertical-Platform-Game
 
-image ['./assets/9-32-06 Vertical-Platform.png']
+Screenshot ('./assets/9-32-06 Vertical-Platform.png')
