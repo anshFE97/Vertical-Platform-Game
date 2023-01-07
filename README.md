@@ -1,3 +1,3 @@
 # Vertical-Platform-Game
 
-Screenshot (./assets/9-32-06 Vertical-Platform.png)
+Screenshot (./assets/vertical-Platform.png.png)
