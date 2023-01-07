@@ -1,3 +1,3 @@
 # Vertical-Platform-Game
 
-Screenshot (./assets/vertical-Platform.png.png)
+![Desktop view](./assets/vertical-Platform.png.png)
